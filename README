@@ -1,3 +1,7 @@
 bus-stops használata a bus-stops mappában lévő readme-ben.
+bus-stops feldolgozza az osm fájlt. Kimenetként kiírja buszonként, azon belül szakaszonként(way-enként) a szakasz összes pontjának koordinátáit.
 jxmap_osm használata a jxmap_osm mappában lévő readme-ben.
+jxmap_osm egy tetszőleges debreceni busznak rajzolja ki az útvonalát a bus-stops kimenete alapján.
 City használata: Másold a bus-stops program kimenetét bus_way_coords.txt néven az assets mappába
+City ugyan az, mint a jxmap_osm, csak androidon, Google Maps-et használva.
+City_regi: androidos megjelenítő a régi string[30000] beolvasással. City-t használd.
