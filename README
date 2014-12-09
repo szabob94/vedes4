@@ -1,0 +1,3 @@
+bus-stops használata a bus-stops mappában lévő readme-ben.
+jxmap_osm használata a jxmap_osm mappában lévő readme-ben.
+City használata: Másold a bus-stops program kimenetét bus_way_coords.txt néven az assets mappába
